@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurav-rp
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently understanding terra ecosystem
-- 💞️ I’m looking to collaborate on terra projects
+- 🌱 I’m currently building the Router Chain
+- 💞️ I’m looking to collaborate on the Router Chain EcoSystem
 - 📫 How to reach me ...
 
 <!---
